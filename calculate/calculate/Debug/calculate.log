@@ -1,0 +1,5 @@
+﻿  calculate.cpp
+C:\110工科賽\練習\calculate\calculate\calculate.cpp(18,20): warning C4018: '<': signed/unsigned 不相符
+C:\110工科賽\練習\calculate\calculate\calculate.cpp(30,22): warning C4018: '<': signed/unsigned 不相符
+C:\110工科賽\練習\calculate\calculate\calculate.cpp(109,11): warning C4244: '正在初始化': 將 '__int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  calculate.vcxproj -> C:\110工科賽\練習\calculate\Debug\calculate.exe
